@@ -48,24 +48,19 @@ Unordered list item
 ⋅⋅* Item
 Unordered sub-list item
 Links
-[text link](https://duckduckgo.com)
+[text link]( Link.com)
 Inline-style link
-[text link with title](https://duckduckgo.com "DDG Home")
-Inline-style link with title
-[Reference-style link][Arbitrary case-insensitive reference text]
-Reference style link
-[Use numbers for reference-style link definitions][1]
-Links with a reference number. The number needs to be defined as [1]: http://slashdot.org
+
 Images
 ![alt text](https://github.com/n48.png "Logo Title")
 Inline style
-[alt text][logo]
-The reference style. Reference need to be declared as [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 Code and Syntax Highlighting
 `code`
 Inline code has back-ticks around it
 ``` Code blocks ```
-Blocks of code are either fenced by lines with three back-ticks or are indented with four spaces
+Blocks of code are either fenced by lines with three 
+back-ticks or are indented with four spaces
 Blockquotes
 > Blockquotes
 Blockquotes are very handy in email to emulate reply text
@@ -74,7 +69,8 @@ Inline HTML
 You can use the raw HTML in your Markdown
 Horizontal Rule
 ---
-You can get a horizontal rule by typing three or more hyphens (-), asterisks (*) or underscore (_)
+You can get a horizontal rule by typing three or more hyphens 
+(-), asterisks (*) or underscore (_)
 
 
 
